@@ -1,0 +1,15 @@
+h1 {
+  color: white;
+  margin-left: 37%;
+}
+
+img {
+  margin-left: 150px;
+  max-width: 75%;
+  max-height: 75%;
+
+}
+
+body {
+  background-color: dimgrey;
+}
